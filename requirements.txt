@@ -1,0 +1,8 @@
+streamlit>=1.40
+deep-translator>=1.11
+gTTS>=2.5
+requests>=2.31
+langdetect>=1.0.9
+
+# Optional, only for TRANSLATOR_BACKEND=google_cloud
+# google-cloud-translate>=3.15
